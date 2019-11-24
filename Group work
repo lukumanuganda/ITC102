@@ -1,0 +1,54 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: light green;
+}
+</style>
+</head>
+<body>
+
+<h2>Safari</h2>
+
+<img src="
+https://docs.google.com/uc?export=download&id=1kGJ6PM4pU37QgPcYu2nCl49rtkal4eqk
+"alt="Imbalu" width="1000" height="400
+
+</body>
+</html>
+
+<h2>Imbalu</h2>
+
+
+<img src="https://docs.google.com/uc?export=download&id=1j1jAgUxFdV_B2f6Tv0nT-N0Hb-P6tDmW" alt="Imbalu" width="1000" height="400
+">
+
+
+
+</body>
+</html>
+
+
+
+
+<p>This picture was taken in 2019 at one of the world's most visited sites.</p>
+
+</body>
+</html>
+
+
+
+<h2>About auther</h2>
+
+<p id="demo"> .</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "My name is Lukuman Nagwere, I am a part-time student at SCC. In this paragraph I am talking about what I have learned and  how I used HTML, CSS, and JavaScript to create my project. First, I used HTML to create the main code and uploaded an image. Then I used CSS to add backgrounds and color to my work. I later used JavaScript to add buttons and some details, including this bio  "'>Read my Bio!</button>
+
+</body>
+</html>
+
+
+
